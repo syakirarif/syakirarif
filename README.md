@@ -3,7 +3,7 @@
 
 **Random Facts**
 - ✨ I love to learn something new and cool.
-- 💁🏽‍♂️ Besides coding, I also love to read books; collect manga(s); play online games and watch anime, movies or K-drama.
+- 💁🏽‍♂️ Besides coding, I also love to read books; collect manga(s); play games; watch anime, movies or K-drama.
 - 🔥 Enthusiastic in Tech industries and E-Sports
 - 🔍 Having desire to own myself business
 
@@ -45,7 +45,7 @@
   <img align="left" alt="Syakir Arif's StackOverflow" width="88px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.hoyolab.com/genshin/accountCenter/gameRecord?id=8063858">
-  <img align="left" alt="Syakir Arif's Genshin Impact Account" width="77px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Genshin_Impact_logo.svg/320px-Genshin_Impact_logo.svg.png"/>
+  <img align="left" alt="Syakir Arif's Genshin Impact Account" width="77px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/320px-Genshin_Impact_logo.svg.png"/>
 </a>
 
 

@@ -44,7 +44,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/8621518/syakir-arif">
   <img align="left" alt="Syakir Arif's StackOverflow" width="88px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://www.hoyolab.com/genshin/accountCenter/gameRecord?id=8063858">
+<a target="_blank" rel="noopener noreferrer" href="https://www.hoyolab.com/accountCenter/postList?id=8063858">
   <img align="left" alt="Syakir Arif's Genshin Impact Account" width="77px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/320px-Genshin_Impact_logo.svg.png"/>
 </a>
 

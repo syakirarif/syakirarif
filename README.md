@@ -1,5 +1,5 @@
 # Ad Astra Abyssosque!
-### Currently working as an Android Developer at [Qelola.com](https://qelola.com/) in Jakarta, Indonesia.
+### Currently working as an Android Developer.
 
 **Random Facts**
 - ✨ I love to learn something new and cool.

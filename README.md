@@ -2,6 +2,7 @@
 ### Currently working as an Android Developer.
 
 **Random Facts**
+- 🎯 Aiming to expertize mobile apps development: Android (Java & Kotlin), iOS (Swift), Flutter (Dart).
 - ✨ I love to learn something new and cool.
 - 💁🏽‍♂️ Besides coding, I also love to read books; collect manga(s); play games; watch anime, movies or K-drama.
 - 🔥 Enthusiastic in Tech industries and E-Sports
@@ -14,8 +15,10 @@
 
 
 ## GitHub Stats
+<!---
 [![Syakir Arif's Github Stats](https://github-readme-stats.vercel.app/api?username=syakirarif&show_icons=true&line_height=21&show_icons=true&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=syakirarif&show_icons=true&layout=compact&theme=buefy&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
@@ -38,7 +41,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCDGrwVLIiD12C3_RCkkqLlQ">
 <img align="left" alt="Syakir Arif's YouTube Channel" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/Kansha#0007/">
+<a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/Kansha#9932/">
   <img align="left" alt="Syakir Arif's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/8621518/syakir-arif">

@@ -6,7 +6,7 @@
 - ✨ I love to learn something new and cool.
 - 💁🏽‍♂️ Besides coding, I also love to read books; collect manga(s); play games; watch anime, movies or K-drama.
 - 🔥 Enthusiastic in Tech industries and E-Sports
-- 🔍 Having desire to own myself business
+- 🔍 Having desire to own myself products/businesses
 
 
 ## University Studies

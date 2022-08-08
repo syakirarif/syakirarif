@@ -41,7 +41,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCDGrwVLIiD12C3_RCkkqLlQ">
 <img align="left" alt="Syakir Arif's YouTube Channel" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
 </a>
-<a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/Kansha#9932/">
+<a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/Kansha#4444/">
   <img align="left" alt="Syakir Arif's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/8621518/syakir-arif">

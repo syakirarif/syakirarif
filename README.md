@@ -1,5 +1,5 @@
 # Ad Astra Abyssosque!
-### Currently working as an Android Developer.
+### Android Developer
 
 **Random Facts**
 - 🎯 Aiming to expertize mobile apps development: Android (Java & Kotlin), iOS (Swift), Flutter (Dart).

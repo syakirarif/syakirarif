@@ -1,5 +1,4 @@
 # Ad Astra Abyssosque!
-### Android Developer
 
 **Random Facts**
 - 🎯 Aiming to expertize mobile apps development: Android (Java & Kotlin), iOS (Swift), Flutter (Dart).
@@ -13,6 +12,8 @@
 **👨‍🎓 Bachelor of Science in Computer Sciences** (Class of 2020) from
 [University of Darussalam Gontor, Main Campus][university]
 
+## Personal Projects/Apps Showcase
+**📲 My Own Google Play Store Account:** [Link][googleplay]
 
 ## GitHub Stats
 <!---
@@ -56,3 +57,4 @@
 
 
 [university]: https://unida.gontor.ac.id/
+[googleplay]: https://play.google.com/store/apps/dev?id=6250267608587140417

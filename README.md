@@ -34,16 +34,16 @@
   <img align="left" alt="Syakir Arif's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/muh-syakir-arif/">
-  <img align="left" alt="Syakir Arif's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
+  <img align="left" alt="Syakir Arif's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/profile/Muhammad-Syakir-Arif">
   <img align="left" alt="Syakir Arif's ResearchGate" width="22px" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1470150968/halqcskldv3ge9nkpjsq.png"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCDGrwVLIiD12C3_RCkkqLlQ">
-<img align="left" alt="Syakir Arif's YouTube Channel" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg">
+<img align="left" alt="Syakir Arif's YouTube Channel" width="32" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg">
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://discordapp.com/users/Kansha#5980/">
-  <img align="left" alt="Syakir Arif's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"/>
+  <img align="left" alt="Syakir Arif's Discord" width="22px" src="https://companieslogo.com/img/orig/discord-d1fc05c6.png?t=1701406947"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://stackoverflow.com/users/8621518/syakir-arif">
   <img align="left" alt="Syakir Arif's StackOverflow" width="88px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>

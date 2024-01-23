@@ -1,5 +1,6 @@
 # Ad Astra Abyssosque!
 
+
 **Random Facts**
 - 🎯 Aiming to expertize mobile apps development: Android (Java & Kotlin), iOS (Swift), Flutter (Dart).
 - ✨ I love to learn something new and cool.
@@ -12,8 +13,16 @@
 **👨‍🎓 Bachelor of Science in Computer Sciences** (Class of 2020) from
 [University of Darussalam Gontor, Main Campus][university]
 
+
 ## Personal Projects/Apps Showcase
-**📲 My Own Google Play Store Account:** [Link][googleplay]
+*Click below to visit my Google Play Store account*
+<br/>
+<br/>
+<a target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/dev?id=6250267608587140417"><img align="left" alt="Syakir Arif's Google Play Store Account" width="320px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/320px-Google_Play_Store_badge_EN.svg.png"/></a>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ## GitHub Stats
 <!---
@@ -23,12 +32,17 @@
 [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/syakirarif/syakirarif/master/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
+<br/>
+<br/>
 ## Top Sponsors
-[Become a sponsor](https://github.com/sponsors/syakirarif)
-
-
+*Click below to become a sponsor*
+<br/>
+<br/>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/sponsors/syakirarif"><img align="left" alt="Syakir Arif's Google Play Store Account" width="180px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX6hS8GP6eTbsfFuwIxtcV6qqZZUFZdmr-CdExrJ1NggRTwGrB9AEYQQ7hLENxG-3pymk&usqp=CAU"/></a>
+<br/>
+<br/>
+<br/>
+<br/>
 ## Links
 <a target="_blank" rel="noopener noreferrer" href="https://www.instagram.com/syakirarifu/">
   <img align="left" alt="Syakir Arif's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>
@@ -49,7 +63,7 @@
   <img align="left" alt="Syakir Arif's StackOverflow" width="88px" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.hoyolab.com/accountCenter/postList?id=8063858">
-  <img align="left" alt="Syakir Arif's Genshin Impact Account" width="77px" src="https://upload.wikimedia.org/wikipedia/en/thumb/5/5d/Genshin_Impact_logo.svg/320px-Genshin_Impact_logo.svg.png"/>
+  <img align="left" alt="Syakir Arif's Genshin Impact Account" width="77px" src="https://vectorseek.com/wp-content/uploads/2023/07/HoYoLab-Logo-Vector.svg-.png"/>
 </a>
 
 
@@ -57,4 +71,3 @@
 
 
 [university]: https://unida.gontor.ac.id/
-[googleplay]: https://play.google.com/store/apps/dev?id=6250267608587140417

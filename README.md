@@ -51,7 +51,7 @@
   <img align="left" alt="Syakir Arif's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.researchgate.net/profile/Muhammad-Syakir-Arif">
-  <img align="left" alt="Syakir Arif's ResearchGate" width="22px" src="https://res-1.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_170,w_170,f_auto,b_white,q_auto:eco/v1470150968/halqcskldv3ge9nkpjsq.png"/>
+  <img align="left" alt="Syakir Arif's ResearchGate" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/ResearchGate_icon_SVG.svg/240px-ResearchGate_icon_SVG.svg.png"/>
 </a>
 <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCDGrwVLIiD12C3_RCkkqLlQ">
 <img align="left" alt="Syakir Arif's YouTube Channel" width="32" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg">
